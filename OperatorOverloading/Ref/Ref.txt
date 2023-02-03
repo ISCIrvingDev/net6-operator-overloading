@@ -1,0 +1,8 @@
+﻿Modificando los Operadores de C# .NET
+https://www.youtube.com/watch?v=I9Sg0FcaQ4Y
+
+Sobrecarga de operadores en C# .Net, característica heredada de C++
+https://www.youtube.com/watch?v=xoYiBLggBq8
+
+Overloadable operators
+https://learn.microsoft.com/en-us/dotnet/csharp/language-reference/operators/operator-overloading
